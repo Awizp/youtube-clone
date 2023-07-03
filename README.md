@@ -12,7 +12,7 @@
 ![Untitled design (1)](https://github.com/Awizp/youtube-clone/assets/64133659/4bb878dc-7e0a-41e5-b23e-edaaca468db4)
 
 * What I learned through this application,
-1. How to use hooks in React aplication,
+1. How to use hooks in React application
 2. How to use Stack, Box, card items from materail Ui
 3. How to fetch data from Rapid API using axios
 4. How to save API key in secure way
