@@ -13,7 +13,7 @@
 
 * What I learned through this application,
 1. How to use hooks in React application
-2. How to use Stack, Box, card items from materail Ui
+2. How to use Stack, Box, card items from material UI
 3. How to fetch data from Rapid API using axios
 4. How to save API key in secure way
 5. How to navigate various links through React router
