@@ -1,5 +1,5 @@
 # WeTube Application (YouTube clone)
-* WeTube is a clone application based on youtube fetched data from API.
+* Introducing a fantastic YouTube UI clone! This app brings the familiar and beloved interface of YouTube to life using Material UI for sleek design, React Player for seamless video playback, Axios for effortless API fetching, React Router for smooth navigation, and React for building an engaging user experience. Enjoy the look and feel of YouTube while exploring and watching videos in this user-friendly and visually appealing clone app.
 
 # Dependencies used,
 1. React Hooks
